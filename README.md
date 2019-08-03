@@ -63,7 +63,10 @@ More things for you to try:
 
 <li>Create a custom target marker. (https://medium.com/arjs/how-to-create-your-own-marker-44becbec1105)</li>
 </ul>
+<<<<<<< HEAD
 
 =======
 # Jehjay.github.io
 >>>>>>> e0a569969b1e375e4893cb9b4a04ec5f49261b83
+=======
+>>>>>>> 6f6a3e071beb4f2d146fbee6de214b3d2adc68d9

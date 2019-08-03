@@ -62,4 +62,3 @@ More things for you to try:
 
 <li>Create a custom target marker. (https://medium.com/arjs/how-to-create-your-own-marker-44becbec1105)</li>
 </ul>
-
